@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: LCDish.h
-Description: 
+Description: LCDish font for DisplayCore
