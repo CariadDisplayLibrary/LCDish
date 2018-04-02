@@ -1,3 +1,14 @@
-As rendered on a Picadillo in Landscape:
+LCDish
+==========
 
-![Screenshot](Screenshot.png?raw=true)
+Usage
+------
+
+    #include <LCDish.h>
+
+Preview images
+--------------
+* Fonts::LCDish 
+
+![LCDish](https://raw.githubusercontent.com/DisplayCore/LCDish/master/Preview/LCDish.png)
+
